@@ -15,5 +15,5 @@
       div?.append(Plot.lineY(data).plot({grid: true})); // add the new chart
     }
   </script>
-  
+  HOME
   <div on:mousemove={onMousemove} bind:this={div} role="img"></div>
